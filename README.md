@@ -1,2 +1,8 @@
-# testwise-98de97f4
-۱. معرفی محصول: تست‌وایز (TestWise) - پلتفرم تست ن — built with Sorkh.app
+# ۱. معرفی محصول: تست‌وایز (TestWise) - پلتفرم تست ن
+
+Built with Sorkh.app Make.
+
+```
+npm install
+npm run dev
+```
